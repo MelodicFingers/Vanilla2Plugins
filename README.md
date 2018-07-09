@@ -1,0 +1,1 @@
+This is a collection of Plugins made for Vanilla2 Forum Software.
