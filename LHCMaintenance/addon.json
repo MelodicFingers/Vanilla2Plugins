@@ -9,6 +9,7 @@
     "icon": "icon.png",
     "key": "LHCMaintenance",
     "type": "addon",
+	"license": "GNU GPL2",
     "authors": [
         {
             "name": "YaelDD",
