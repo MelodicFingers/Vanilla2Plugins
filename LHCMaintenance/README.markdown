@@ -9,12 +9,18 @@ This is an update for the old plugin "Closed For Maintenance"(https://open.vanil
 <ul>
 <li>Vanilla 2.6 compatible.</li>
 <li>Easily customizable, just replace one image.</li>
+<li>Now everything is customizable!</li>
 </ul>
 
 <br />
 
 <h2>Changelog:</h2>
 <ul>
+	<li>2.0.0
+		<ul>
+			<li>[ADDED]New settings page for the plugin, it will allow you to fully customize the maintenance page!</li>
+		</ul>
+	</li>
 	<li>1.2.0
 		<ul>
 			<li>[UPDATED]Message showing method updated, old was jQuery, new interrupts PHP execution avoiding showing the content. Old method would allow users to skip|stop jQuery execution and could show sensitive data meanwhile administrators would be debbuging (Thanks for the advice @R_J).</li>

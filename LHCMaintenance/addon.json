@@ -1,0 +1,22 @@
+{
+    "name": "LHCMaintenance",
+    "className": "LHCMaintenancePlugin",
+    "description": "Maintenance plugin for Vanilla 2, allows you to close your site to do maintenance. You can customize the image by replacing the current one (maintenance.png).",
+    "version": "2.0.0",
+    "settingsUrl": "/plugin/lhcmaintenance",
+    "settingsPermission": "Garden.Settings.Manage",
+    "mobileFriendly": true,
+    "icon": "icon.png",
+    "key": "LHCMaintenance",
+    "type": "addon",
+    "authors": [
+        {
+            "name": "YaelDD",
+            "email": "yaeldd@lifeheart.club",
+            "homepage": "https://yaeldd.lifeheart.club"
+        }
+    ],
+    "require": {
+        "vanilla": ">=2.0"
+    }
+}
